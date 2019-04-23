@@ -3,7 +3,12 @@ Escape room runner react app for an escape room I created as part of my honours 
 
 Portal 2 Themed room for 2 players were the players must solve puzzles to save science
 
-Once my honours project has been marked I will release the PDF of the materials I have used for the actual room itself
+Resources to play the room can be found [here](https://drive.google.com/drive/folders/1ndn_u1jLYnXv7zA7NC1xXhEFRU2_yzoZ?usp=sharing)
+
+**However**
+You will also require a mirror (preferably one that can be held) and a QR code reader. Cut out the blue portal and stick it on the mirror or make your own blue portal cutout. 
+
+You will also require to have node/npm installed on your machine to run this app locally
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
