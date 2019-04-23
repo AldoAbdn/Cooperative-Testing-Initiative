@@ -6,7 +6,33 @@ Portal 2 Themed room for 2 players were the players must solve puzzles to save s
 Resources to play the room can be found [here](https://drive.google.com/drive/folders/1ndn_u1jLYnXv7zA7NC1xXhEFRU2_yzoZ?usp=sharing)
 
 **However**
-You will also require a mirror (preferably one that can be held) and a QR code reader. Cut out the blue portal and stick it on the mirror or make your own blue portal cutout. 
+You will also require a mirror (preferably one that can be held) and a QR code reader. Cut out the blue portal and stick it on the mirror or make your own blue portal cutout
+
+The pigpen cipher is contained within the Escape Room Generator folder pdf but feel free to print out your own
+
+## Starting the App
+Once you download the app, type npm install. Once complete type npm start and the app will be hosted on localhost:3000 (should open automatically)
+
+## Changing Scene 
+There are 5 scenes within the app
+- splashcreen (0)
+- intro video (1)
+- coundown timer (2)
+- outro video (3)
+- after credits song (4)
+SHIFT + [scene number] will switch the scene
+
+## Starting the Timer
+SHIFT + 2 will navigate to the countdown timer scene. SHIFT + SPACE will play/pause the timer
+
+## Voice Lines
+In the countdown timer scene only, CTRL + SHIFT + [1,2,3 or 4] will play a wheatly voiceline use these to get the players attention
+
+## Hint System
+There is a text box you can type hints into on the coundown page
+
+## Displaying the App
+I used a chromecast connected to a tv, and casted a tab on my laptop to the tv containing the hosted app in fullscreen. The same thing could be accomplished with a direct connection to a tv/monitor
 
 You will also require to have node/npm installed on your machine to run this app locally
 
