@@ -11,6 +11,9 @@ You will also require a mirror (preferably one that can be held) and a QR code r
 
 The pigpen cipher is contained within the Escape Room Generator folder pdf but feel free to print out your own
 
+## Disclaimer
+I **do not** own the rights to portal, which are held by it's creator Valve. Images used in the design were sourced via google image search with the labeled for reuse feature on. Any of the characters or items contained in the design are property of Value. None of this material has been used for commercial purposes.  
+
 ## Starting the App
 Once you download the app, type npm install. Once complete type npm start and the app will be hosted on localhost:3000 (should open automatically)
 
