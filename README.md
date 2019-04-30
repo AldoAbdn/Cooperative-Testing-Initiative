@@ -14,8 +14,9 @@ The pigpen cipher is contained within the Escape Room Generator folder pdf but f
 ## Disclaimer
 I **do not** own the rights to portal, which are held by it's creator Valve. Images used in the design were sourced via google image search with the labeled for reuse feature on. Any of the characters or sound effects contained in the design are property of Value. None of this material has been used for commercial purposes. 
 
-The song used in the background is sourced from the official Portal 2 Website [page](http://www.thinkwithportals.com/music.php)
+The song used in the background is sourced from the official Portal 2 Website [page](http://www.thinkwithportals.com/music.php) 
 
+The image used in the poster contained in the materials can be found [here](https://www.deviantart.com/vaiisk/art/Cooperative-Testing-Initiative-208688637)
 
 ## Starting the App
 Once you download the app, type npm install. Once complete type npm start and the app will be hosted on localhost:3000 (should open automatically)
