@@ -16,7 +16,9 @@ I **do not** own the rights to portal, which are held by it's creator Valve. Ima
 
 The song used in the background is sourced from the official Portal 2 Website [page](http://www.thinkwithportals.com/music.php) 
 
-The image used in the poster contained in the materials can be found [here](https://www.deviantart.com/vaiisk/art/Cooperative-Testing-Initiative-208688637)
+The image used in the poster contained in the materials can be found [here](https://www.deviantart.com/vaiisk/art/Cooperative-Testing-Initiative-208688637) created by DeviantArt user [Valisk](https://www.deviantart.com/vaiisk)
+
+I do not own the image or the music, this software was and can only be used for non-commercial purposes. In this case it was used to test that an application i had created to generate an escape room could actually create a solveable room. 
 
 ## Starting the App
 Once you download the app, type npm install. Once complete type npm start and the app will be hosted on localhost:3000 (should open automatically)
